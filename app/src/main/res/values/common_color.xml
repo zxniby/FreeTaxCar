@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ui_100_grey1">#EDEDED</color>
+    <color name="ui_100_grey1">#D6D6D6</color>
     <color name="ui_100_orange1">#EE7600</color>
+    <color name="ui_100_green1">#9ACD32</color>
 
 </resources>
